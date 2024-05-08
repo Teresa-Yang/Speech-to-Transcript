@@ -5,7 +5,10 @@ This is an example of [TheCodex project code for speech recognition](https://git
 <br></br>
 
 ---
-### To run (Personally used Visual Studio Code but should not matter on the IDE):
+### To run:
+* Enter `flask run` in the terminal/comand prompt within the project directory
+---
+### How to run if there are error for dependencies that occur (Personally used Visual Studio Code but should not matter on the IDE):
 * Clone the project
 * Ensure you set up a virtual environment
   * Navigate to the project directory if not already in it within the terminal/comand prompt
