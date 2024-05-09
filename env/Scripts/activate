@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="G:\PronunciationScorer\SpeechRecognitionWithPythonAndFlask\env"
+VIRTUAL_ENV="G:\PronunciationScorer\Speech-to-Transcript\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
